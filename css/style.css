@@ -209,6 +209,8 @@ img {
   margin-right: 16px;
   margin-left: 16px;
   text-align: center;
+  padding-bottom: 32px;
+  padding-top: 32px;
 }
 .team-list-item {
   background: #fff;
